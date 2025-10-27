@@ -1,9 +1,9 @@
 {
   "minecraft": {
     "server_path": "C:\\Minecraft\\server.jar",
-    "server_name": "MyMinecraftServer",
-    "server_host": "26.97.108.203",
-    "server_port": 5555,
+    "server_name": "CubicGamer_real",
+    "server_host": "CubicGamer_real.aternos.me",
+    "server_port": 37026,
     "max_ram": "4G",
     "min_ram": "2G",
     "auto_restart": true,
